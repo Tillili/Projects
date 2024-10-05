@@ -1,12 +1,1 @@
-# Portfolio Projects: Data Analysis And Visualization 
-
-This is a collection of my data analysis projects. I've done them for self-learning and my courses purposes. The portfolio includes projects prepared in Excel, Power BI, Tableau and Jupyter Notebook for Python projects.
-
-## Projects List
-
-| Excel Spreadsheets
-
-** [Furniture Store Sales Analysis](Simple_Sasles_Dashboard.xlsx)
-: Vrinda store is selling their products online through diffrent channels like Amazon, Flipkart etc. They have a sales data of year 2022 & they want us to analyse this data to understand their customers to grow more sales in 2023.
-Analysis-Of-IPL-Dataset: Building an dashboard to analyze the season wise stats for the Indian Premier League(IPL) data from 2008 to 2018.
-** [French Bakery Sales Analysis](https://github.com/Tillili/Projects/blob/8fd449e4a1c65bdcc4fe9d51425bcf4ab96bf34c/French_Bakery_Sales.xlsx) - 
+Both project aims to create an interactive Excel dashboard that contains sale data from two stores. Utilizing slicers, users can easily filter and analyze the data, gaining insights into sales performance, financial metrics empowering effective decision-making and improving overall business performance. The data in the dashboard can be updated by adding additional rows in the source tables.

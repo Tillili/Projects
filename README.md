@@ -9,4 +9,4 @@ This is a collection of my data analysis projects. I've done them for self-learn
 ** [Furniture Store Sales Analysis](Simple_Sasles_Dashboard.xlsx)
 : Vrinda store is selling their products online through diffrent channels like Amazon, Flipkart etc. They have a sales data of year 2022 & they want us to analyse this data to understand their customers to grow more sales in 2023.
 Analysis-Of-IPL-Dataset: Building an dashboard to analyze the season wise stats for the Indian Premier League(IPL) data from 2008 to 2018.
-** [French Bakery Sales Analysis](French_Bakery_Sales.xlsx) - 
+** [French Bakery Sales Analysis]([French_Bakery_Sales.xlsx](https://github.com/Tillili/Projects/blob/1107473ac2d5bf5d2fa9a5e112b5e8a8320fa28d/French_Bakery_Sales.xlsx)) - 

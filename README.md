@@ -6,5 +6,7 @@ This is a collection of my data analysis projects. I've done them for self-learn
 
 | Excel Spreadsheets
 
-eCommarce Store Sales Analysis: Vrinda store is selling their products online through diffrent channels like Amazon, Flipkart etc. They have a sales data of year 2022 & they want us to analyse this data to understand their customers to grow more sales in 2023.
+** [Furniture Store Sales Analysis](https://github.com/Tillili/Projects/blob/8fd449e4a1c65bdcc4fe9d51425bcf4ab96bf34c/Simple_Sasles_Dashboard.xlsx)
+: Vrinda store is selling their products online through diffrent channels like Amazon, Flipkart etc. They have a sales data of year 2022 & they want us to analyse this data to understand their customers to grow more sales in 2023.
 Analysis-Of-IPL-Dataset: Building an dashboard to analyze the season wise stats for the Indian Premier League(IPL) data from 2008 to 2018.
+** [French Bakery Sales Analysis](https://github.com/Tillili/Projects/blob/8fd449e4a1c65bdcc4fe9d51425bcf4ab96bf34c/French_Bakery_Sales.xlsx) - 
